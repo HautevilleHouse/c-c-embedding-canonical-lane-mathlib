@@ -1,0 +1,18 @@
+import canonicalLaneMathlib.AdmissibleClass
+import CCEmbeddingCanonicalLaneLean.CalderonZygmundEmbedding
+import CCEmbeddingCanonicalLaneLean.SingularIntegralOperators
+import CCEmbeddingCanonicalLaneLean.BMOTheory
+import CCEmbeddingCanonicalLaneLean.InterpolationTheorem
+import CCEmbeddingCanonicalLaneLean.EndpointEmbedding
+import CCEmbeddingCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CCEmbeddingCanonicalLaneLean
+
+-- Root module: brings together all packages
+
+theorem cc_embedding_canonical_lane_ready : True := by
+  trivial
+
+end CCEmbeddingCanonicalLaneLean
+end HautevilleHouse
